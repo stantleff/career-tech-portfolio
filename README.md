@@ -18,9 +18,13 @@ Enterprise-style fraud monitoring and analyst workflow platform built with Flask
 ---
 
 ### IT Support Ticket Tracker
-A support operations application for creating, prioritizing, tracking, and resolving IT tickets. Built to mirror the type of internal workflow system used by technology operations and support teams.
+A full-stack IT operations and support workflow platform designed to simulate the type of internal ticket management system used by technology operations teams.
 
-**Skills shown:** Python, Flask, SQLite, CRUD operations, systems support workflows, status tracking, priority management, dashboard analytics, and end-user design.
+Features include authentication, ticket assignment and status tracking, SLA monitoring, technician workload management, analyst notes/comments, Chart.js analytics, CSV reporting, and deployment support.
+
+**Skills shown:** Python, Flask, SQLite, SQLAlchemy, Chart.js, deployment workflows, dashboard analytics, operational reporting, CRUD workflows, and end-user design.
+
+**Live Demo:** https://it-support-ticket-tracker.onrender.com/
 
 **Repository:** https://github.com/stantleff/it-support-ticket-tracker
 
@@ -38,9 +42,13 @@ A structured analysis application connected to intelligence, security studies, e
 - Python application development
 - Flask web applications
 - SQLite database design
+- SQLAlchemy ORM workflows
 - CRUD functionality
 - Dashboard analytics
 - Chart.js visualizations
+- Authentication systems
+- Docker deployment
+- Render cloud deployment
 - HTML/CSS interface design
 - User workflow planning
 - Project documentation
@@ -61,7 +69,7 @@ These projects are built to support applications for roles such as:
 
 ## Portfolio Goal
 
-The goal of this portfolio is to show more than coding ability. These projects demonstrate how technical tools can be used to solve business problems, organize workflows, support decision-making, and create better user experiences for teams.
+The goal of this portfolio is to show more than coding ability. These projects demonstrate how technical tools can be used to solve business problems, organize workflows, support decision-making, visualize operational data, and create better user experiences for teams.
 
 ## Author
 
