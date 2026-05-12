@@ -31,7 +31,7 @@ A structured analysis application connected to intelligence, security studies, e
 
 **Skills shown:** analytical workflows, database-backed applications, structured reasoning, user interface planning, and information organization.
 
-**Repository:** Add link here
+**Repository:** https://github.com/stantleff/sat-ach-intelligence-analysis-tool
 
 ## Core Technical Skills Demonstrated
 
